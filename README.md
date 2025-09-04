@@ -126,7 +126,6 @@ Common flags (from `graph_app.py`):
 
 ## 🤖 Agent Graph (High-Level)
 
-```mermaid
  ┌─────────┐
  │ Intake  │
  └────┬────┘
@@ -160,7 +159,7 @@ Common flags (from `graph_app.py`):
  │ Final Answer  │
  └───────────────┘
 
-```
+
 
 **Nodes overview (from `graph_app.py`):**
 

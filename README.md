@@ -128,12 +128,12 @@ Common flags (from `graph_app.py`):
 
 ```mermaid
 flowchart TD
-  A[Intake] --> B[Retrieval (FAISS + BM25)]
-  B -->|enough local grounding?| D[Analysis]
-  B -->|insufficient| C[Web Research (Tavily)]
-  C --> D[Analysis]
-  D --> E[Citation/Attribution]
-  E --> F[Final Answer]
+    A[Intake] --> B[Retrieval (FAISS + BM25)]
+    B -->|enough local grounding?| D[Analysis]
+    B -->|insufficient| C[Web Research (Tavily)]
+    C --> D[Analysis]
+    D --> E[Citation/Attribution]
+    E --> F[Final Answer]
 ```
 
 **Nodes overview (from `graph_app.py`):**

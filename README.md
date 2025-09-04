@@ -204,17 +204,3 @@ TAVILY_API_KEY="..."
 This repository is for **research and educational purposes**. It does **not** provide legal advice. Always consult a qualified attorney for advice on your specific situation.
 
 ---
-
-## 📥 Download
-
-You can download this README directly:
-
-- **[Download README.md](sandbox:/mnt/data/README.md)**
-
----
-
-## 🏷️ Suggested Repository Name & Description
-
-- **Repo name:** `agentic-legal-rag-india`
-- **Description:** *Agentic legal assistant for India using hybrid RAG (FAISS + BM25), OCR-able PDF indexing, and optional web research via Tavily. Built with LangGraph + LangChain.*
-

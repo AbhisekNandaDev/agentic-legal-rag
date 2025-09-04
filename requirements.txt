@@ -1,0 +1,27 @@
+# core
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# LLM + embeddings
+langchain-openai
+
+# vector db
+faiss-cpu
+
+# web search tool (Tavily)
+tavily-python
+langchain-tavily
+rich
+
+
+# (your earlier pipeline deps—already installed if you ran embedd.py)
+nltk
+sentence-transformers
+scikit-learn
+numpy
+pdfplumber
+pdf2image
+pytesseract
+pillow
